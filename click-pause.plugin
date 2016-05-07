@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=click-pause
+IAge=1
+Name=Click Pause
+Description=Pause and play with the right click.
+Authors=Daniel Doblado <daniel doblado@gmail.com> @dobladov
+Copyright=MIT
+Website=http://github.com/dobladov
