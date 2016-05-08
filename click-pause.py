@@ -3,7 +3,7 @@
 from gi.repository import GObject, Peas
 
 class StarterPlugin (GObject.Object, Peas.Activatable):
-    __gtype_name__ = 'StarterPlugin'
+    __gtype_name__ = 'ClickPause'
 
     object = GObject.property (type = GObject.Object)
 

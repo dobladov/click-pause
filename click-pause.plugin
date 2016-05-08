@@ -4,6 +4,7 @@ Module=click-pause
 IAge=1
 Name=Click Pause
 Description=Pause and play with the right click.
+Description[es]=Pausa y reproduce con el click derecho.
 Authors=Daniel Doblado <daniel doblado@gmail.com> @dobladov
 Copyright=MIT
 Website=http://github.com/dobladov
