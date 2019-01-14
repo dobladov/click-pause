@@ -1,6 +1,6 @@
 # Click Pause
 
-Small plugin for [Totem](https://wiki.gnome.org/Apps/Videos) that pause and play the current video with the right click.
+Small plugin for [Totem](https://wiki.gnome.org/Apps/Videos) to pause and play the current video with the right click.
 
 ## Install
 
