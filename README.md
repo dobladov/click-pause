@@ -13,8 +13,6 @@ Or download the [files](https://github.com/dobladov/click-pause/archive/master.z
 
 Enable the plugin on Edit --> Preferences --> Plugins
 
-![Plugins](https://my.mixtape.moe/zabhyg.png)
-
 ## Usage
 
 Right click on the video to toggle play/pause.
@@ -23,7 +21,3 @@ Right click on the video to toggle play/pause.
 
 + [Totem Reference Manual](https://developer.gnome.org/totem/stable/)
 + [Writing Plugins for Totem Movie Player](http://asanka-abeyweera.blogspot.com.es/2012/03/writing-plugins-for-totem-movie-player.html)
-
----
-
-![Pause](https://my.mixtape.moe/tbmlrr.gif)
